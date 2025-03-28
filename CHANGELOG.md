@@ -1,7 +1,7 @@
 # 📝 Changelog for Chat With Cat v2.1
 
 ![Version](https://img.shields.io/badge/Version-2.1-blue)
-![Date](https://img.shields.io/badge/Release%20Date-June%202024-green)
+![Date](https://img.shields.io/badge/Release%20Date-March%202025-green)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
 This changelog documents all notable changes, improvements, and fixes in Chat With Cat v2.1.
